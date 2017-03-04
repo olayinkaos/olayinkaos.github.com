@@ -1,2 +1,2 @@
 # olayinkaos.github.com
-My personal Jekyll powered site. Built alongside @ibywaks
+My personal Jekyll powered site. Built alongside [@ibywaks](https://github.com/ibywaks)
