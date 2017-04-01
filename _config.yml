@@ -1,0 +1,17 @@
+name: Yinka
+description: Tech talk, and other interesting things
+meta_description: "Olayinka Omole's blog. Here he writes about design, web development, engineering and life."
+disqus: true
+
+markdown: kramdown
+highlighter: pygments
+logo: false
+paginate: 15
+baseurl: /
+domain_name: 'http://blog.olayinkaos.com'
+google_analytics: 'UA-39129445-10'
+gems: [jekyll-paginate]
+
+# Details for the RSS feed generator
+url:            'blog.olayinkaos.com'
+author:         'Olayinka Omole'
