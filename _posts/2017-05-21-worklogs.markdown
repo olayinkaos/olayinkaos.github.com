@@ -33,7 +33,7 @@ It was really great working with Yomi. He's an amazing Frontend Developer and De
 >**Fun fact you probably didn't care to know** - The app was initially called Kuzco, and we released to a few people to test with that name. I got feedback that the name was hard to spell, and it was suggested that we change it. Sigh. We (a.k.a Yomi) had to redesign the whole thing overnight. Great guy.
 
 
-> **Another fun fact** - Much of the inspiration and push for this came from [Neo](https://twitter.com/NeoIghodaro). He's and amazing developer, and probably the best team lead any dev could have. 😉
+> **Another fun fact** - Much of the inspiration and push for this came from [Neo](https://twitter.com/NeoIghodaro). He's an amazing developer, and probably the best team lead any dev could have. 😉
 
 ## Future Changes and Improvements
 We will be making some changes in the next few weeks. We got some quality feedback yesterday, and we think they are spot on:
