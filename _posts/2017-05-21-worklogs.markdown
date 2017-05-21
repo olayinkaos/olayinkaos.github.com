@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Worklogs"
+date:   2017-05-21 00:00:00
+categories: 
+disqus: true
+---
+
+Yesterday, We ([Yomi](https://twitter.com/yomieluwande) & I, Me and Yomi?) put out a [side project](https://worklogs.co) we've been working on for a few weeks, and well, the feedback has been good so far.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I recently worked on a small app to help remote teams better track their work hours, along with <a href="https://twitter.com/yomieluwande">@yomieluwande</a> - <a href="https://t.co/BdX1JiIP6D">https://t.co/BdX1JiIP6D</a></p>&mdash; Olayinka. (@olayinkaos) <a href="https://twitter.com/olayinkaos/status/865859070158393344">May 20, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## What is Worklogs?
+
+It's a simple app that's supposed to solve a simple problem. 
+
+It helps employers (or team mates) track when their employees (or team members) are available to work, and what they're working on. It also logs activities and generates daily reports, so everyone can see how much they've committed to different activities. Employers can also see how much time each of their employees have logged. Nifty, right?
+
+Clock-ins are also posted directly to [Slack](https://slack.com), so your people are alerted immediately you get to working.
+![Worklogs - time tracking tool for remote teams](https://cdn-images-1.medium.com/max/1400/1*C0IwuJrN72Q_zt33Z5k6Mw.png)
+
+You can see more info on how it works in [this medium post](https://medium.com/@Yomi/worklogs-time-tracking-for-remote-teams-727222617bcd).
+
+## Vue + Laravel = Awesomeness
+Learned a lot, and had a little bit of fun while working on this. It is a [Vue.js](https://vuejs.org/) app that is powered by a REST API. Yomi did most of the heavy lifting with Vue, while I worked on the API.
+
+The API was built with Laravel, and I implemented some shiny new things I wanted to work with like [Redis](https://redis.io/) and [Bugsnag](https://www.bugsnag.com/). I initially containerised the entire thing with [Docker](https://www.docker.com/), but I ran into some issues, and shamelessly gave up on that. Convinced myself that speed was more important than tinkering.
+
+It was really great working with Yomi. He's an amazing Frontend Developer and Designer, and he's really responsible for the speed at which we completed this version.
+
+>**Fun fact you probably didn't care to know** - The app was initially called Kuzco, and we released to a few people to test with that name. I got feedback from a friend (more like mentor) that the name was hard to spell, and suggested that we change it. Sigh. We (a.k.a Yomi) had to redesign the whole thing overnight. Great guy.
+
+## Future Changes and Improvements
+We will be making some changes in the next few weeks. We got some quality feedback yesterday, and we think they are spot on:
+- Adding slash commands and a bot so users can clock in without leaving slack
+- Implementing various filters for reports, so admins and regular users can have more insight into their work habits
+- Implementing other minor design changes to improve the user experience.
+
+If you haven't already, do check out [worklogs.co](https://worklogs.co). Would love to hear your thoughts.
+

@@ -18,6 +18,10 @@
     word-break: break-word;
     hyphens: none;
 }
+twitterwidget {
+	margin: 0 auto;
+	margin-bottom: 30px !important;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
