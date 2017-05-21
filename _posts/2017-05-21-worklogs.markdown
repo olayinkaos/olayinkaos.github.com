@@ -2,8 +2,10 @@
 layout: post
 title:  "Worklogs"
 date:   2017-05-21 00:00:00
-categories: 
+categories:
+image: https://cdn-images-1.medium.com/max/1400/1*C0IwuJrN72Q_zt33Z5k6Mw.png
 disqus: true
+description: How me and Yomi built a time tracking app for teams. How the app works, and other details you really didn't ask for.
 ---
 
 Yesterday, We ([Yomi](https://twitter.com/yomieluwande) & I, Me and Yomi?) put out a [side project](https://worklogs.co) we've been working on for a few weeks, and well, the feedback has been good so far.

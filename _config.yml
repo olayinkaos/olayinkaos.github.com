@@ -1,10 +1,10 @@
-name: Yinka
-description: Tech talk, and other interesting things
+name: Tech talk, and other interesting things
+description: Olayinka Omole's blog
 meta_description: "Olayinka Omole's blog. Here he writes about design, web development, engineering and life."
 disqus: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
