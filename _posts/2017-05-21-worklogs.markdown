@@ -30,7 +30,7 @@ The API was built with Laravel, and I implemented some shiny new things I wanted
 
 It was really great working with Yomi. He's an amazing Frontend Developer and Designer, and he's really responsible for the speed at which we completed this version.
 
->**Fun fact you probably didn't care to know** - The app was initially called Kuzco, and we released to a few people to test with that name. I got feedback from a friend (more like mentor) that the name was hard to spell, and suggested that we change it. Sigh. We (a.k.a Yomi) had to redesign the whole thing overnight. Great guy.
+>**Fun fact you probably didn't care to know** - The app was initially called Kuzco, and we released to a few people to test with that name. I got feedback that the name was hard to spell, and it was suggested that we change it. Sigh. We (a.k.a Yomi) had to redesign the whole thing overnight. Great guy.
 
 ## Future Changes and Improvements
 We will be making some changes in the next few weeks. We got some quality feedback yesterday, and we think they are spot on:
