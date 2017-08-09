@@ -13,4 +13,4 @@ You can find me on [Twitter](http://twitter.com/olayinkaos), [Github](http://git
 
 Here's a photo of me at the beach:
 {: style="color:gray; font-size: 80%; text-align: center;"}
-![OS](https://pbs.twimg.com/profile_images/801365956748570625/K7bPzgs6.jpg)
+![OS](/assets/images/olayinka-omole-software-developer.jpg)
