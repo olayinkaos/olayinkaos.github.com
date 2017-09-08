@@ -14,7 +14,10 @@ You see, when you work on the small stuff it's fine, but when you start building
 
 I recently took a strong interest in Algorithms, and as with almost everything else I know in life, I decided to take a head-first dive into learning it. I enrolled in [this course](https://www.coursera.org/specializations/algorithms), and have started the journey to getting better at understanding and analysing common algorithms.
 
-I've only done a few days, and I feel smarter already. Even though I'm really still learning the basics, I think taking a big interest in Algorithms will be absolutely worth it to every developer. At the very least you'll be able to confidently use lingo like [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation), [Divide and Conquer design paradigm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm), and so on 😉.
+
+## What do I think so far?
+
+I've only done a few days, and I feel smarter already. Even though I'm really still learning the basics, I think taking a big interest in Algorithms will be absolutely worth it to every developer. At the very least you'll be able to confidently use lingo like [Big O notation](https://en.wikipedia.org/wiki/Big_O_notation), [Divide and Conquer design paradigm](https://en.wikipedia.org/wiki/Divide_and_conquer_algorithm), and so on. 😉
 
 Also, having to implement algorithms in your language of choice can really help improve your analytical skills and make you a better programmer. One of the first things I did in the course was implement the popular [Merge sort](https://en.wikipedia.org/wiki/Merge_sort) algorithm. It's not the typical thing you'd bother about in your daily work as a developer, so I had to think a bit and convert the psuedo-code I was provided with into working software. Here's the implementation I did in Python:
 
