@@ -6,7 +6,7 @@ disqus: true
 markdown: kramdown
 highlighter: rouge
 logo: false
-paginate: 15
+paginate: 10
 baseurl: /
 domain_name: 'http://blog.olayinkaos.com'
 google_analytics: 'UA-39129445-10'
