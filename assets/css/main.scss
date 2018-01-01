@@ -23,6 +23,10 @@ twitterwidget {
 	margin-bottom: 30px !important;
 }
 
+.post-excerpt img {
+    max-width: 100%;
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax"
