@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Go Vote, Please?"
-date:   2017-10-29 00:00:00
+date:   2018-02-10 00:00:00
 categories: 
 image: https://govote.org.ng/assets/queue.svg
 disqus: true
