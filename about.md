@@ -5,7 +5,7 @@ title: About Me
 
 Hello, 
 
-I'm Yinka, an engineer based in [Lagos, Nigeria](https://en.wikipedia.org/wiki/Lagos). I'm a self taught full stack web developer, and I work with (and write about) technologies like PHP, JavaScript, Python and C. I currently work at [the largest online hotel booking agency in Nigeria](https://hotels.ng).
+I'm Yinka, an engineer based in London. I'm a self taught full stack web developer, and I work with (and write about) technologies like PHP, JavaScript, Python, Java, and C. I currently work at Goldman Sachs, and previously worked at [the largest online hotel booking agency in Nigeria](https://hotels.ng). My full work history is on [LinkedIn](https://ng.linkedin.com/in/olayinka-success-omole-26274b82).
 
 I love to try new things, and invent stuff.
 

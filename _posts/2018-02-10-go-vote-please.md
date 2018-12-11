@@ -8,11 +8,11 @@ disqus: true
 description: How and why me and Yomi built are building a bunch of software to help Nigerians vote in the 2019 General Election.
 ---
 
-Some weeks ago, I decided I wanted to get my PVC to vote in the 2019 Nigerian General Elections. I believe taking a step is better than doing nothing. No revolution ever started with people folding their hands and resigning to their fates, right?
+Some weeks ago, I decided I wanted to get my PVC (Permanent Voter’s Card) to vote in the 2019 Nigerian General Elections. I believe taking a step is better than doing nothing. No revolution ever started with people folding their hands and resigning to their fates, right?
 
 I almost gave up after my supposed conviction for one tiny reason - I could not for the life of me find where to register for my PVC. Checking the INEC website for the locations was the biggest waste of time. After [tweeting about my ordeal](https://twitter.com/olayinkaos/status/957740741761097736), [Efe](https://twitter.com/efefregene) sent me a PDF with all the locations for PVC collection in Lagos on WhatsApp.
 
-The information on the PDF was 10 pages of chaos. It didn't have proper addresses, and all the info on it was unclear. If you're like me, you would most likely have closed the PDF and moved on with life - "next time abeg". For some reason though, I didn't close it - I thought it was a genuine problem. I started thinking of ways to enable the 2019 elections with software. After all that's what software does best, enable.
+The information on the PDF was 10 pages of chaos. It didn’t have proper addresses, and all the info on it was unclear. If you’re like me, you would most likely have closed the PDF and moved on with life — “next time abeg”. I didn’t close it though — I thought it was a genuine problem. I started thinking of ways to enable the 2019 elections with software as a neutral party. After all that’s what software does best, enable.
 
 ![Lagos PVC Locations PDF](https://dl.dropboxusercontent.com/s/0tspxghftyth268/Lagos%20PVC%20Locations%20Screenshot.png)
 
@@ -31,6 +31,8 @@ As I usually do with my ideas, I buzzed a few friends and asked what they though
 We named the project GoVote, because that is what we believe everyone should do. Ayoola recently told me that Nigeria isn’t run by our votes. While I may agree, I also know that a revolution does not begin till a group of people decide to fight the odds, go against the impossible, and say to the institution “damn you, I’m taking a step”. Your vote isn’t just the ballot you’re casting, it is a symbol of your hope in the country, and the commitment you’re making to try to make it better.
 
 We believe we are lucky, we have been put in a position to effect change, and we will do our best to. We do not want to do it alone - join us, [contribute on GitHub](https://github.com/ErxiaHQ/), correct the data, add more locations, and let us one step at a time, make our country better.
+
+Please reach out if you want to make any contributions, ask questions or just chat — me@olayinkaos.com!
 
 
 
